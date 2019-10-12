@@ -5,6 +5,12 @@
 		"type": "git",
     	"url": "https://github.com/hamadmarri/icecreame-theme-vscode"
 	},
+	"categories": ["Themes"],
+	"icon": "logo.png",
+	"galleryBanner": {
+	"color": "#C80000",
+	"theme": "dark"
+	},
 	"engines": {
 		"vscode": ">=0.9.0-pre.1"
 	},
