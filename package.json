@@ -8,8 +8,8 @@
 	"categories": ["Themes"],
 	"icon": "logo.png",
 	"galleryBanner": {
-	"color": "#C80000",
-	"theme": "dark"
+	"color": "#000000",
+	"theme": "light"
 	},
 	"engines": {
 		"vscode": ">=0.9.0-pre.1"
