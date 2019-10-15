@@ -1,15 +1,17 @@
 {
 	"name": "theme-icecream",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"repository": {
 		"type": "git",
-    	"url": "https://github.com/hamadmarri/icecreame-theme-vscode"
+		"url": "https://github.com/hamadmarri/icecreame-theme-vscode"
 	},
-	"categories": ["Themes"],
+	"categories": [
+		"Themes"
+	],
 	"icon": "logo.png",
 	"galleryBanner": {
-	"color": "#000000",
-	"theme": "light"
+		"color": "#FFFFFF",
+		"theme": "light"
 	},
 	"engines": {
 		"vscode": ">=0.9.0-pre.1"
@@ -26,7 +28,7 @@
 	},
 	"__metadata": {
 		"id": "9f833cb5-79ca-4039-bb6b-c1cbb5c1021c",
-		"publisherDisplayName": "Hamad Al Marri",
-		"publisherId": "701a217d-21c8-4314-9170-be316eb7d066"
+		"publisherId": "701a217d-21c8-4314-9170-be316eb7d066",
+		"publisherDisplayName": "Hamad Al Marri"
 	}
 }

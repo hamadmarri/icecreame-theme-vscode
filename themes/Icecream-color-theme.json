@@ -3,13 +3,23 @@
 // #00B5FF
 // #0DD100
 // #B8475C
-// #fca83b
+// #FF931F
 {
 	"name": "Icecream",
 	"type": "light",
 	"colors": {
 		"editor.background": "#fdfdfd", 
-		"editor.foreground": "#827082"
+		"editor.foreground": "#827082",
+		"editorLineNumber.foreground": "#82708275",
+		"editorLineNumber.activeForeground": "#0DD100",
+
+		"editorSuggestWidget.highlightForeground": "#00B5FF",
+		
+		"statusBar.background": "#685a68",
+		"statusBar.foreground": "#fdfdfd",
+
+		"editor.selectionBackground": "#82708231",
+		"editorBracketMatch.background": "#82708231"
 	},
 	"tokenColors": [
 		{
