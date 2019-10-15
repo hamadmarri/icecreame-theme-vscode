@@ -21,6 +21,7 @@
 		"statusBar.noFolderForeground": "#fdfdfd",
 		
 		"editor.selectionBackground": "#82708231",
+		"editor.selectionHighlightBackground": "#82708231",
 		"editorBracketMatch.background": "#82708231"
 	},
 	"tokenColors": [
